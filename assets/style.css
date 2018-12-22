@@ -1,0 +1,21 @@
+body {
+    background-color: grey;
+}
+
+.jumbotron {
+    background-color: darkgrey;
+    color: maroon;
+}
+
+.row {
+    color: maroon;
+    font-size: 16px;
+}
+
+#currentTime, #currentThyme {
+    font-weight: bold;
+    color: maroon;
+    font-size: 20px;
+}
+
+.card
